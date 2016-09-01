@@ -1,5 +1,5 @@
 # HttpUtils
-单文件Http工具类，支持GET,POST,断点续传，多线程断点续传
+单文件Http工具类，支持GET，POST，断点续传，多线程断点续传
 ## 1普通请求
 ``` java
         String baiduUrl = "http://www.baidu.com";
